@@ -1,4 +1,4 @@
-# SupportPilot AI (Personal Edition)
+# SupportPilot AI
 
 A personal AI help-desk assistant built on Retrieval-Augmented Generation (RAG). Ask questions, mention a ticket like `HELP-001`, and get grounded answers with cited help articles. Runs fully offline for demo, or with Groq for full LLM answers.
 
